@@ -1,0 +1,4 @@
+﻿  CA2_Bug_Project.cpp
+C:\Users\Administrator\Desktop\CA2-Bug-Project- - Copy\CA2-Bug-Project-\CA2-Bug-Project-00f33f9e021e2870d6c81eca717783e10004b6c2\Crawler.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Administrator\Desktop\CA2-Bug-Project- - Copy\CA2-Bug-Project-\CA2-Bug-Project-00f33f9e021e2870d6c81eca717783e10004b6c2\Hopper.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CA2_Bug_Project.vcxproj -> C:\Users\Administrator\Desktop\CA2-Bug-Project- - Copy\CA2-Bug-Project-\CA2-Bug-Project-00f33f9e021e2870d6c81eca717783e10004b6c2\Debug\CA2_Bug_Project.exe
